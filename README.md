@@ -1,13 +1,13 @@
 <h1 align="center">
-  <b> 𝐑𝐎𝐌𝐄𝐎𝐁𝐎𝐓 </b>
+  <b> 𝐒𝐇𝐈𝐕𝐁𝐎𝐓 </b>
 </h1>
 
 <p align="center">
-  <img src="https://telegra.ph/file/a62b9c7d9848afde0569e.jpg" alt="Romeo-RJ">
+  <img src="https://telegra.ph/file/ff8228a476d1fc73ab8fe.jpg" alt="Romeo-RJ">
 </p>
 
 <h6 align="center">
-  <b>🇮🇳 𝐑𝐎𝐌𝐄𝐎★𝐁𝐎𝐓 🇮🇳</b>
+  <b>🇮🇳 𝐒𝐇𝐈𝐕★𝐁𝐎𝐓 🇮🇳</b>
 </h6>
 
 <h3 align="center">
